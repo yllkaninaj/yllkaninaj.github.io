@@ -47,17 +47,17 @@ In the midterm stage we wait to notice more solutions in the clinical setting wo
 Third stage includes improved information management, such as the patient’s proper perspective. These will be helping to generate an expanded “Digital-twin” of the person, device this, that will be assisting in determining on the ideal therapy result for each patient specially. During this stage, AI is expected to also possibly aid to predict the chances of getting or developing a new health condition or disease (Hofstraat H., Philips Chief Technology Office, 2020).
 
 ## REFERENCES & CITATIONS:
-***1.***	Welukar J., Bajoria G. (2021, December). Artificial Intelligence in Cyber Security - A Review. Artificial Intelligence in Cyber Security - A Review. https://doi.org/10.32628/IJSRST218675 
+***1.***	Welukar J., Bajoria G. (2021, December). Artificial Intelligence in Cyber Security - A Review. Artificial Intelligence in Cyber Security - A Review. (https://doi.org/10.32628/IJSRST218675) 
 
-***2.***	Dr. Liz Kwo. (2021, July 1). Contributed: Top 10 Use Cases for AI in Healthcare. From Drug Discovery to Forecasting Kidney Disease AI Could Be the next Game-Changer in Healthcare. https://www.mobihealthnews.com/news/contributed-top-10-use-cases-ai-healthcare 
+***2.***	Dr. Liz Kwo. (2021, July 1). Contributed: Top 10 Use Cases for AI in Healthcare. From Drug Discovery to Forecasting Kidney Disease AI Could Be the next Game-Changer in Healthcare. (https://www.mobihealthnews.com/news/contributed-top-10-use-cases-ai-healthcare) 
 
-***3.***	Sunarti, S., Fadzlul Rahman, F., Naufal, M., Risky, M., Febriyanto, K., & Masnina, R. (2021). Artificial intelligence in healthcare: opportunities and risk for future. Gaceta sanitaria, 35 Suppl 1, S67–S70. https://doi.org/10.1016/j.gaceta.2020.12.019 
+***3.***	Sunarti, S., Fadzlul Rahman, F., Naufal, M., Risky, M., Febriyanto, K., & Masnina, R. (2021). Artificial intelligence in healthcare: opportunities and risk for future. Gaceta sanitaria, 35 Suppl 1, S67–S70. (https://doi.org/10.1016/j.gaceta.2020.12.019) 
 
-***4.***	Transforming healthcare with AI: The impact on the workforce and organizations. (March, 2020). Transforming Healthcare with AI: The Impact on the Workforce and Organizations. https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/transforming-healthcare-with-ai#
+***4.***	Transforming healthcare with AI: The impact on the workforce and organizations. (March, 2020). Transforming Healthcare with AI: The Impact on the Workforce and Organizations. (https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/transforming-healthcare-with-ai#)
 
-***5.***	Bi, W. L., Hosny, A., Schabath, M. B., Giger, M. L., Birkbak, N. J., Mehrtash, A., Allison, T., Arnaout, O., Abbosh, C., Dunn, I. F., Mak, R. H., Tamimi, R. M., Tempany, C. M., Swanton, C., Hoffmann, U., Schwartz, L. H., Gillies, R. J., Huang, R. Y., & Aerts, H. (2019). Artificial intelligence in cancer imaging: Clinical challenges and applications. CA: a cancer journal for clinicians, 69(2), 127–157. https://doi.org/10.3322/caac.21552 
+***5.***	Bi, W. L., Hosny, A., Schabath, M. B., Giger, M. L., Birkbak, N. J., Mehrtash, A., Allison, T., Arnaout, O., Abbosh, C., Dunn, I. F., Mak, R. H., Tamimi, R. M., Tempany, C. M., Swanton, C., Hoffmann, U., Schwartz, L. H., Gillies, R. J., Huang, R. Y., & Aerts, H. (2019). Artificial intelligence in cancer imaging: Clinical challenges and applications. CA: a cancer journal for clinicians, 69(2), 127–157. (https://doi.org/10.3322/caac.21552) 
 
-***6.***	Wang, F., & Preininger, A. (2019). AI in Health: State of the Art, Challenges, and Future Directions. Yearbook of medical informatics, 28(1), 16–26. https://doi.org/10.1055/s-0039-1677908
+***6.***	Wang, F., & Preininger, A. (2019). AI in Health: State of the Art, Challenges, and Future Directions. Yearbook of medical informatics, 28(1), 16–26. (https://doi.org/10.1055/s-0039-1677908)
 
-***7.***	Marius, E., (2019, May 29). 6 Ways AI and Robotics Are Improving Healthcare. Robotics Business Review. https://www.roboticsbusinessreview.com/health-medical/6-ways-aiand-robotics-are-improving-healthcare/
+***7.***	Marius, E., (2019, May 29). 6 Ways AI and Robotics Are Improving Healthcare. Robotics Business Review. (https://www.roboticsbusinessreview.com/health-medical/6-ways-aiand-robotics-are-improving-healthcare/)
 
